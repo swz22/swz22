@@ -1,7 +1,7 @@
 <span>
 <img align="right" alt="PIC" width = "200px" height="200px" src="./cat.gif" />
 <h2> 👩🏻‍💻 About Me </h2>
-I am a full-stack web developer based in Culver City, California.
+I am a full-stack web developer based in Los Angeles, California.
 </span>
 
 ### Languages and Tools:
