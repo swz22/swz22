@@ -9,7 +9,7 @@ I am a full-stack web developer based in Los Angeles, California.
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" />
-<img align="left" alt="Node.js" width="26px" src="https://www.technoscore.com/images/services/node-js-icon.png" />
+<img align="left" alt="Node.js" width="26px" src="https://i7.pngguru.com/preview/330/211/681/node-js-javascript-express-js-server-side-scripting-front-and-back-ends-node-js.jpg" />
 <img align="left" alt="MongoDB" width="26px" src="https://gcollazo.github.io/mongodbapp/assets/img/icon.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://p7.hiclipart.com/preview/396/90/545/postgresql-database-logo-computer-icons-replication-software-developer.jpg" />
