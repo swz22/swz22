@@ -1,7 +1,11 @@
 <span>
 <img align="right" alt="PIC" width = "200px" height="200px" src="./cat.gif" />
 <h2> 👩🏻‍💻 About Me </h2>
-I am a full-stack web developer based in Los Angeles, California.
+<ul> 
+  <li> Full-Stack Web Developer from Los Angeles, California
+  <li> Currently residing in Dallas, Texas
+  <li> I ❤️ building user interfaces, databases, and web applications
+ </ul>
 </span>
 
 ### Languages and Tools:
