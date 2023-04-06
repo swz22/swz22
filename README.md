@@ -2,6 +2,7 @@
 <ul>
   <li> Full-Stack Web Developer from Los Angeles, California
   <li> Currently residing in Dallas, Texas
+	  update
 </ul>
 
 ### Languages & Tools:
