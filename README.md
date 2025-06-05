@@ -1,6 +1,6 @@
 ### About Me
 <ul>
-  <li> Full-Stack Web Developer from Los Angeles, California
+  <li> Full-Stack Sofware Engineer from Los Angeles, California
   <li> Currently residing in Dallas, Texas
 </ul>
 
