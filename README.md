@@ -1,6 +1,6 @@
 ### About Me
 <ul>
-  <li> Full-Stack Sofware Engineer from Los Angeles, California
+  <li> Sofware Engineer from Los Angeles, California
   <li> Currently residing in Dallas, Texas
 </ul>
 
